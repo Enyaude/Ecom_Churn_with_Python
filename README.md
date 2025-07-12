@@ -126,7 +126,7 @@ This EDA revealed critical insights into customer churn trends and factors influ
 </div>
 
 <div style="text-align: center; margin-top: 20px; font-size: 0.9em; color: #555;">
-  <p>Project by [Your Name] | <a href="https://github.com/yourusername" style="color: #007bff; text-decoration: none;">GitHub</a> | <a href="mailto:your.email@example.com" style="color: #007bff; text-decoration: none;">Contact</a></p>
+  <p>Project by Samuel Idinotu Enyaude | <a href="https://github.com/Enyaude" style="color: #007bff; text-decoration: none;">GitHub</a> | <a href="mailto:your.enyaudesamuel@gmail.com" style="color: #007bff; text-decoration: none;">Contact</a></p>
 </div>
 
 </div>
