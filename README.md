@@ -1,5 +1,6 @@
 <div style="font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-# 🔹 Telecoms Customer Churn Analysis with Python 🔹
+  
+#🔹 Telecoms Customer Churn Analysis with Python 🔹
 
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="https://img.icons8.com/color/48/000000/telecom.png" alt="Telecom Icon" style="vertical-align: middle; margin-right: 10px;">
