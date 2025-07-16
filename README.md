@@ -2,8 +2,8 @@
   
 ## 🔹 Telecoms Customer Churn Analysis with Python 🔹
 
-<div style="text-align: center; margin-bottom: 20px;">
-  <img src="https://img.icons8.com/color/48/000000/telecom.png" alt="Telecom Icon" style="vertical-align: middle; margin-right: 10px;">
+<div style="text-align: center; margin-bottom: 10px;">
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQGCdyvwp19yMA/article-cover_image-shrink_720_1280/B4EZZt6NZnHQAM-/0/1745600702386?e=2147483647&v=beta&t=_6GqeYRBQOQ_tCJt_xQj8bui1pMtq9UfK1vS6ifNsxw" alt="Telecom Icon" style="vertical-align: middle; margin-right: 5px;">
   <span style="font-size: 1.2em; color: #333;">Data Cleaning and Exploratory Data Analysis (EDA) on Telecom Customer Data</span>
 </div>
 
@@ -41,7 +41,8 @@ Customer churn refers to the phenomenon where clients discontinue their business
 - Analyzed outliers' impact and applied capping for extreme values where necessary.
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="https://img.icons8.com/ios-filled/50/000000/data-cleaning.png" alt="Data Cleaning Icon" style="vertical-align: middle;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1aAPJGGslGPt7sBKLWi_wDH_QTdDfTW5POw&s" alt="Data Cleaning Icon" style="vertical-align: middle;">
+  
   <span style="font-style: italic; color: #555;">Clean data is the foundation of meaningful insights.</span>
 </div>
 
@@ -89,7 +90,8 @@ Customer churn refers to the phenomenon where clients discontinue their business
 - **Payment Method**: Electronic check users had the highest churn rate among payment methods.
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="https://img.icons8.com/color/48/000000/light-bulb.png" alt="Insights Icon" style="vertical-align: middle;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQljvYhCbE3XCXPkZ1NvTcH_zi7kHqS2NdpmQ&s" alt="Insights Icon" style="vertical-align: middle;">
+  
   <span style="font-style: italic; color: #555;">Insights drive actionable strategies.</span>
 </div>
 
